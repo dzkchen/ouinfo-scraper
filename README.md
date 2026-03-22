@@ -2,7 +2,7 @@
 
 Small CLI tools that scrape public program and scholarship listings from [OUInfo](https://www.ouinfo.ca/) and save them as JSON. [`csv_convert.py`](csv_convert.py) is just a quick script I made to turn the 2024-2025 reddit (Ontario G12) spreadsheet to a json file. Data is cleaned up a good bit (Not doing 2022-2024 for now).
 
-Work in process (not sure if it fully works as of 03/21/2026), feel free to contribute and possibly give it a star if you use it :)
+Work in process (didn't check all of output file to verify if it's correct), feel free to contribute and possibly give it a star if you use it :)
 
 ## Tech stack
 
