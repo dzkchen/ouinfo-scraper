@@ -2,6 +2,8 @@
 
 Small CLI tools that scrape public program and scholarship listings from [OUInfo](https://www.ouinfo.ca/) and save them as JSON.
 
+Work in process (not sure if it fully works as of 03/21/2026), feel free to contribute :)
+
 ## Tech stack
 
 language: python  
