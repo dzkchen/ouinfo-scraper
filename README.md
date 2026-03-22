@@ -12,6 +12,55 @@ html parsing: beautifulsoup4
 cli: argparse  
 serialization: json (stdlib)
 
+## Sample Output
+
+Shapes below are from `scrape_programs.py --limit 1` and `scrape_scholarships.py --limit 1`; field values change with OUInfo.
+
+### Programs (`ouinfo_programs.json`)
+
+Object keyed by OUAC code (or a disambiguated id if the code repeats).
+
+```json
+{
+  "CBA": {
+    "programCode": "CBA",
+    "university": "Carleton University",
+    "programName": "Accounting",
+    "admissionAverage": "80%",
+    "prerequisites": [
+      "English (ENG4U)",
+      "Advanced Functions (MHF4U)",
+      "Calculus (MCV4U) or Math for Data Management (MDM4U). (Calculus [MCV4U] recommended.)",
+      "3 best 4U/M courses"
+    ],
+    "suppAppRequired": false,
+    "url": "https://www.ouinfo.ca/programs/carleton/cba"
+  }
+}
+```
+
+### Scholarships (`ouinfo_scholarships.json`)
+
+Object keyed by university name; each value is a list of scholarship records.
+
+```json
+{
+  "Algoma University": [
+    {
+      "name": "Algoma University Alumni Award I and II",
+      "url": "https://www.ouinfo.ca/scholarships/algoma/algoma-university-alumni-award-i",
+      "deadline": "Jun. 30, 2026",
+      "value": "$2,000",
+      "renewable": "no",
+      "applicationRequired": "yes",
+      "forIndigenousApplicantsOnly": "no",
+      "gradeRangeRequired": "other criteria",
+      "forEquitySeekingApplicantsOnly": "no"
+    }
+  ]
+}
+```
+
 ## Requirements
 
 - Python 3.10+

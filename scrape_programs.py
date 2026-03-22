@@ -247,7 +247,9 @@ def fetch_program(
         if not prerequisites:
             prerequisites = ["n/a"]
 
+        code = ouac_code.strip().upper()
         record: dict[str, str | bool | list[str]] = {
+            "programCode": _to_na(code),
             "university": _to_na(university),
             "programName": _to_na(program_name),
             "admissionAverage": _to_na(grade_range),
@@ -255,7 +257,7 @@ def fetch_program(
             "suppAppRequired": supp,
             "url": url,
         }
-        return record, ouac_code.strip().upper()
+        return record, code
     except (AttributeError, TypeError, ValueError) as e:
         print(f"  [warn] parse failed {url}: {e}", file=sys.stderr)
         return None
