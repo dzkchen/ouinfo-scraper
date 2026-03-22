@@ -1,6 +1,8 @@
-# ouinfo-scraper
+# OUInfo-Scraper
 
 Small CLI tools that scrape public program and scholarship listings from [OUInfo](https://www.ouinfo.ca/) and save them as JSON.
+
+If you use this give me it a star :)
 
 ## Tech stack
 
