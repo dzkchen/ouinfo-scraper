@@ -1,6 +1,6 @@
 # OUInfo-Scraper
 
-Small CLI tools that scrape public program and scholarship listings from [OUInfo](https://www.ouinfo.ca/) and save them as JSON.
+Small CLI tools that scrape public program and scholarship listings from [OUInfo](https://www.ouinfo.ca/) and save them as JSON. [`csv_convert.py`](csv_convert.py) is just a quick script I made to turn the 2024-2025 reddit (Ontario G12) spreadsheet to a json file. Data is cleaned up a good bit (Not doing 2022-2024 for now).
 
 Work in process (not sure if it fully works as of 03/21/2026), feel free to contribute and possibly give it a star if you use it :)
 
@@ -14,7 +14,7 @@ serialization: json (stdlib)
 
 ## Sample Output
 
-Shapes below are from `scrape_programs.py --limit 1` and `scrape_scholarships.py --limit 1`; field values change with OUInfo.
+Shapes below are from `scrape_programs.py --limit 1` and `scrape_scholarships.py --limit 1`; field values change with OUInfo. The Reddit CSV example matches `csv_convert.py` output shape (default file `reddit_programs_24_25.json`).
 
 ### Programs (`ouinfo_programs.json`)
 
@@ -61,6 +61,21 @@ Object keyed by university name; each value is a list of scholarship records.
 }
 ```
 
+### Reddit program averages (`reddit_programs_24_25.json`)
+
+```json
+{
+  "programs": [
+    {
+      "university": "Brock",
+      "program_code": "BG",
+      "top_6_averages": [89, 95, 80],
+      "average": 88
+    }
+  ]
+}
+```
+
 ## Requirements
 
 - Python 3.10+
@@ -96,4 +111,15 @@ python scrape_scholarships.py --limit 10
 python scrape_scholarships.py -o my_scholarships.json
 ```
 
-Use `python scrape_programs.py --help` / `python scrape_scholarships.py --help` for options.
+### CSV → JSON (`csv_convert.py`)
+
+Reads a CSV with columns University, OUAC Code, Program name, and Top 6 Average. Rows are grouped by `(University, OUAC Code)`; each group lists top‑6 averages from the file and an `average`. Rows with a blank or non-numeric average are skipped and summarized in the console output.
+
+Defaults: input [`resources/24_25_data.csv`](resources/24_25_data.csv), output `./reddit_programs_24_25.json`.
+
+```bash
+python csv_convert.py
+python csv_convert.py -i resources/24_25_data.csv -o reddit_programs_24_25.json
+```
+
+Use `python scrape_programs.py --help` / `python scrape_scholarships.py --help` / `python csv_convert.py --help` for options.
