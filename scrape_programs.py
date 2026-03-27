@@ -176,44 +176,63 @@ def guess_supp_app(soup: BeautifulSoup) -> bool:
     if not article:
         return False
     section = article.select_one(".tabbed-section") or article
+    form_terms = (
+        r"(supplementary|supplemental)\s+application"
+        r"|admission information form"
+        r"|\baif\b"
+        r"|online student profile"
+        r"|student profile"
+        r"|portfolio"
+        r"|personal profile"
+    )
+    assessment_terms = (
+        r"one idea"
+        r"|video essay"
+        r"|audition"
+        r"|interview"
+        r"|casper(?:\s+test)?"
+    )
     for tag in section.select("p, li, dd"):
         t = _squish(tag.get_text(" ", strip=True))
         if not t or len(t) > 700:
             continue
         tl = t.lower()
-        if len(t) > 280 and "the following programs require" in tl:
+        if "scholarship" in tl or "scholarships" in tl:
             continue
-        if "strongly recommended for admission" in tl and "scholarship" in tl:
+        if "the following programs require" in tl or "some programs require" in tl:
+            continue
+        if "for some programs" in tl and re.search(form_terms, tl):
             continue
         if re.search(
-            r"(supplementary|supplemental)\s+application",
+            r"\b(not required|not mandatory|not used|optional|recommended)\b", tl
+        ) and (re.search(form_terms, tl) or re.search(assessment_terms, tl)):
+            continue
+        if re.search(
+            form_terms,
             tl,
         ) and re.search(
-            r"\b(required|is required|must complete|must submit|must be submitted)\b",
+            r"\b("
+            r"required|is required|required for admission|mandatory|"
+            r"must complete|must submit|must be submitted|must be completed"
+            r")\b",
             tl,
-        ):
-            return True
-        if "admission information form" in tl and re.search(
-            r"\b(required|is required)\b", tl
-        ):
-            return True
-        if re.search(r"\baif\b", tl) and re.search(
-            r"\b(is required|required)\b", tl
-        ):
-            return True
-        if "portfolio" in tl and re.search(
-            r"\b(required|must submit|must be submitted)\b", tl
-        ):
-            return True
-        if "personal profile" in tl and re.search(
-            r"\b(required|must complete)\b", tl
         ):
             return True
         if re.search(
-            r"(one idea|video essay|audition|interview).{0,80}"
-            r"(required|is required|must complete)",
+            r"\bmandatory\b.{0,80}" + form_terms + r"|" + form_terms + r".{0,80}\bmandatory\b",
             tl,
         ):
+            return True
+        if re.search(
+            r"\b(not be considered without|required to be considered|"
+            r"to be considered.*must (?:complete|submit)|"
+            r"must (?:complete|submit).{0,80}\bto be considered)\b",
+            tl,
+        ) and re.search(form_terms, tl):
+            return True
+        if re.search(assessment_terms, tl) and re.search(
+            r"\b(required|is required|mandatory|must complete)\b", tl
+        ) and re.search(r"\b(admission|consideration|selection)\b", tl):
             return True
     return False
 
@@ -372,7 +391,7 @@ def parse_cli(argv: list[str]) -> CliArgs:
 
 def main() -> None:
     args = parse_cli(sys.argv[1:])
-    print("OUInfo scraper — Phases 4–5 (assembly, rate limit, JSON output)\n")
+    print("OUInfo scraper")
     data = scrape_all(args.limit)
     out_path = args.output
     print(f"\nWriting {len(data)} entries to {out_path} …")
