@@ -1,0 +1,4699 @@
+{
+  "programs": [
+    {
+      "university": "Brock",
+      "program_code": "BAI",
+      "top_6_averages": [
+        92.0,
+        92.0
+      ],
+      "average": 92.0
+    },
+    {
+      "university": "Brock",
+      "program_code": "BAJ",
+      "top_6_averages": [
+        90.83
+      ],
+      "average": 90.83
+    },
+    {
+      "university": "Brock",
+      "program_code": "BCH",
+      "top_6_averages": [
+        97.0
+      ],
+      "average": 97.0
+    },
+    {
+      "university": "Brock",
+      "program_code": "BD",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "Brock",
+      "program_code": "BDP",
+      "top_6_averages": [
+        89.5
+      ],
+      "average": 89.5
+    },
+    {
+      "university": "Brock",
+      "program_code": "BG",
+      "top_6_averages": [
+        89.0,
+        95.0,
+        80.0
+      ],
+      "average": 88.0
+    },
+    {
+      "university": "Brock",
+      "program_code": "BGE",
+      "top_6_averages": [
+        94.33
+      ],
+      "average": 94.33
+    },
+    {
+      "university": "Brock",
+      "program_code": "BH",
+      "top_6_averages": [
+        83.0
+      ],
+      "average": 83.0
+    },
+    {
+      "university": "Brock",
+      "program_code": "BI",
+      "top_6_averages": [
+        81.66
+      ],
+      "average": 81.66
+    },
+    {
+      "university": "Brock",
+      "program_code": "BII",
+      "top_6_averages": [
+        95.0,
+        92.33
+      ],
+      "average": 93.665
+    },
+    {
+      "university": "Brock",
+      "program_code": "BIM",
+      "top_6_averages": [
+        89.0,
+        93.0,
+        88.25
+      ],
+      "average": 90.0833
+    },
+    {
+      "university": "Brock",
+      "program_code": "BIN",
+      "top_6_averages": [
+        94.0
+      ],
+      "average": 94.0
+    },
+    {
+      "university": "Brock",
+      "program_code": "BK",
+      "top_6_averages": [
+        93.0,
+        86.0,
+        93.0,
+        88.33,
+        83.25,
+        89.0
+      ],
+      "average": 88.7633
+    },
+    {
+      "university": "Brock",
+      "program_code": "BND",
+      "top_6_averages": [
+        88.0
+      ],
+      "average": 88.0
+    },
+    {
+      "university": "Brock",
+      "program_code": "BNS",
+      "top_6_averages": [
+        94.66,
+        94.0,
+        93.0,
+        91.0,
+        95.67,
+        90.0,
+        94.8,
+        91.0
+      ],
+      "average": 93.0162
+    },
+    {
+      "university": "Brock",
+      "program_code": "BPE",
+      "top_6_averages": [
+        91.0
+      ],
+      "average": 91.0
+    },
+    {
+      "university": "Brock",
+      "program_code": "BPI",
+      "top_6_averages": [
+        96.67
+      ],
+      "average": 96.67
+    },
+    {
+      "university": "Brock",
+      "program_code": "BPY",
+      "top_6_averages": [
+        79.0
+      ],
+      "average": 79.0
+    },
+    {
+      "university": "Brock",
+      "program_code": "BSH",
+      "top_6_averages": [
+        89.5
+      ],
+      "average": 89.5
+    },
+    {
+      "university": "Brock",
+      "program_code": "BSM",
+      "top_6_averages": [
+        90.0
+      ],
+      "average": 90.0
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CBE",
+      "top_6_averages": [
+        84.2
+      ],
+      "average": 84.2
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CC",
+      "top_6_averages": [
+        84.0,
+        94.0,
+        91.0,
+        84.2,
+        94.0,
+        87.0
+      ],
+      "average": 89.0333
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CEA",
+      "top_6_averages": [
+        97.8,
+        97.0,
+        97.8,
+        91.0,
+        91.0,
+        91.0,
+        96.0,
+        88.5,
+        89.33
+      ],
+      "average": 93.27
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CEB",
+      "top_6_averages": [
+        90.25
+      ],
+      "average": 90.25
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CEC",
+      "top_6_averages": [
+        96.0,
+        92.2
+      ],
+      "average": 94.1
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CED",
+      "top_6_averages": [
+        89.5,
+        90.0,
+        92.17,
+        95.0,
+        91.83
+      ],
+      "average": 91.7
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CEF",
+      "top_6_averages": [
+        98.67,
+        92.2,
+        90.0,
+        89.0
+      ],
+      "average": 92.4675
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CEG",
+      "top_6_averages": [
+        89.67,
+        92.8
+      ],
+      "average": 91.235
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CES",
+      "top_6_averages": [
+        84.6,
+        88.0,
+        97.5,
+        93.0,
+        81.0,
+        90.0
+      ],
+      "average": 89.0167
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CEX",
+      "top_6_averages": [
+        81.8
+      ],
+      "average": 81.8
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CH",
+      "top_6_averages": [
+        94.0,
+        90.05
+      ],
+      "average": 92.025
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CHS",
+      "top_6_averages": [
+        86.33
+      ],
+      "average": 86.33
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CK",
+      "top_6_averages": [
+        91.0,
+        90.67
+      ],
+      "average": 90.835
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CMA",
+      "top_6_averages": [
+        93.0,
+        96.5
+      ],
+      "average": 94.75
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CN",
+      "top_6_averages": [
+        91.0
+      ],
+      "average": 91.0
+    },
+    {
+      "university": "Carleton",
+      "program_code": "COD",
+      "top_6_averages": [
+        99.7,
+        99.0,
+        98.0,
+        97.5,
+        97.0,
+        96.83,
+        95.0,
+        94.0,
+        93.66,
+        93.66,
+        95.667,
+        95.0,
+        94.5,
+        93.0,
+        93.0,
+        94.8,
+        92.0,
+        94.3,
+        92.83,
+        90.75
+      ],
+      "average": 95.0099
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CPX",
+      "top_6_averages": [
+        92.5,
+        91.0
+      ],
+      "average": 91.75
+    },
+    {
+      "university": "Carleton",
+      "program_code": "CT",
+      "top_6_averages": [
+        86.75
+      ],
+      "average": 86.75
+    },
+    {
+      "university": "Guelph",
+      "program_code": "",
+      "top_6_averages": [
+        89.0
+      ],
+      "average": 89.0
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GBD",
+      "top_6_averages": [
+        84.0,
+        92.33,
+        88.0,
+        85.5,
+        85.5
+      ],
+      "average": 87.066
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GBE",
+      "top_6_averages": [
+        80.0
+      ],
+      "average": 80.0
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GBI",
+      "top_6_averages": [
+        98.8
+      ],
+      "average": 98.8
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GBJ",
+      "top_6_averages": [
+        89.67
+      ],
+      "average": 89.67
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GBK",
+      "top_6_averages": [
+        92.0,
+        85.76,
+        85.5
+      ],
+      "average": 87.7533
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GBL",
+      "top_6_averages": [
+        96.5
+      ],
+      "average": 96.5
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GBS",
+      "top_6_averages": [
+        92.0,
+        84.2,
+        94.67
+      ],
+      "average": 90.29
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GCJ",
+      "top_6_averages": [
+        90.0
+      ],
+      "average": 90.0
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GCT",
+      "top_6_averages": [
+        98.3,
+        92.0,
+        91.33,
+        94.33,
+        90.0,
+        88.75,
+        88.0,
+        86.0,
+        94.3,
+        83.83
+      ],
+      "average": 90.684
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GDB",
+      "top_6_averages": [
+        89.0
+      ],
+      "average": 89.0
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GFD",
+      "top_6_averages": [
+        99.0
+      ],
+      "average": 99.0
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GK",
+      "top_6_averages": [
+        89.0,
+        84.0,
+        89.67
+      ],
+      "average": 87.5567
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GL",
+      "top_6_averages": [
+        92.5
+      ],
+      "average": 92.5
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GMA",
+      "top_6_averages": [
+        95.0
+      ],
+      "average": 95.0
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GME",
+      "top_6_averages": [
+        94.0,
+        95.0,
+        93.75,
+        90.33,
+        89.0
+      ],
+      "average": 92.416
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GMH",
+      "top_6_averages": [
+        91.33,
+        92.5,
+        86.0
+      ],
+      "average": 89.9433
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GMR",
+      "top_6_averages": [
+        96.0,
+        94.33
+      ],
+      "average": 95.165
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GNG",
+      "top_6_averages": [
+        83.0
+      ],
+      "average": 83.0
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GOH",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GPS",
+      "top_6_averages": [
+        94.0,
+        95.83
+      ],
+      "average": 94.915
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GZ",
+      "top_6_averages": [
+        96.83,
+        82.0,
+        82.0,
+        95.0,
+        94.0,
+        93.0,
+        89.0,
+        90.67,
+        90.0,
+        86.75,
+        86.33,
+        84.33,
+        88.25,
+        92.0,
+        82.33
+      ],
+      "average": 88.8327
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GZA",
+      "top_6_averages": [
+        98.0,
+        93.17,
+        92.0,
+        91.5,
+        90.67
+      ],
+      "average": 93.068
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GZB",
+      "top_6_averages": [
+        95.67,
+        99.0,
+        98.17,
+        96.5,
+        95.0,
+        94.5,
+        93.83,
+        92.0,
+        91.33,
+        92.17
+      ],
+      "average": 94.817
+    },
+    {
+      "university": "Guelph",
+      "program_code": "GZK",
+      "top_6_averages": [
+        94.5
+      ],
+      "average": 94.5
+    },
+    {
+      "university": "Guelph-Humber",
+      "program_code": "GDB",
+      "top_6_averages": [
+        83.0
+      ],
+      "average": 83.0
+    },
+    {
+      "university": "Guelph-Humber",
+      "program_code": "GHE",
+      "top_6_averages": [
+        87.0
+      ],
+      "average": 87.0
+    },
+    {
+      "university": "Guelph-Humber",
+      "program_code": "GMP",
+      "top_6_averages": [
+        87.0
+      ],
+      "average": 87.0
+    },
+    {
+      "university": "Guelph-Humber",
+      "program_code": "GMT",
+      "top_6_averages": [
+        84.0
+      ],
+      "average": 84.0
+    },
+    {
+      "university": "Lakehead",
+      "program_code": "AAH",
+      "top_6_averages": [
+        93.2
+      ],
+      "average": 93.2
+    },
+    {
+      "university": "Lakehead",
+      "program_code": "AAP",
+      "top_6_averages": [
+        79.0
+      ],
+      "average": 79.0
+    },
+    {
+      "university": "Lakehead",
+      "program_code": "AK",
+      "top_6_averages": [
+        89.0,
+        93.0
+      ],
+      "average": 91.0
+    },
+    {
+      "university": "Lakehead",
+      "program_code": "AL",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "Lakehead",
+      "program_code": "AM",
+      "top_6_averages": [
+        97.7,
+        79.0
+      ],
+      "average": 88.35
+    },
+    {
+      "university": "Laurentian",
+      "program_code": "LAK",
+      "top_6_averages": [
+        89.0
+      ],
+      "average": 89.0
+    },
+    {
+      "university": "Laurentian",
+      "program_code": "LBW",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "Laurentian",
+      "program_code": "LCS",
+      "top_6_averages": [
+        88.167
+      ],
+      "average": 88.167
+    },
+    {
+      "university": "Laurentian",
+      "program_code": "LNE",
+      "top_6_averages": [
+        87.4,
+        92.66
+      ],
+      "average": 90.03
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UAG",
+      "top_6_averages": [
+        86.0,
+        88.0
+      ],
+      "average": 87.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UAI",
+      "top_6_averages": [
+        88.5
+      ],
+      "average": 88.5
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UAK",
+      "top_6_averages": [
+        88.0
+      ],
+      "average": 88.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UB",
+      "top_6_averages": [
+        95.0,
+        98.0,
+        97.0,
+        96.0,
+        98.0,
+        95.8,
+        95.66,
+        98.0,
+        97.0,
+        92.0,
+        95.67,
+        93.0,
+        92.0,
+        91.5,
+        93.0,
+        94.5,
+        91.0,
+        90.0,
+        95.0,
+        94.0,
+        92.5,
+        94.6,
+        91.7,
+        90.0,
+        92.83,
+        90.0,
+        90.0,
+        95.55,
+        90.3,
+        90.17,
+        90.0,
+        88.3,
+        88.0,
+        88.2,
+        91.83,
+        87.0,
+        93.33,
+        86.5,
+        87.0,
+        85.0,
+        94.0
+      ],
+      "average": 92.4132
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UBA",
+      "top_6_averages": [
+        89.0,
+        91.0
+      ],
+      "average": 90.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UBF",
+      "top_6_averages": [
+        94.0,
+        95.0,
+        95.0,
+        98.67,
+        93.0,
+        91.0,
+        93.0
+      ],
+      "average": 94.2386
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UBI",
+      "top_6_averages": [
+        89.0
+      ],
+      "average": 89.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UBW",
+      "top_6_averages": [
+        96.5
+      ],
+      "average": 96.5
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UCI",
+      "top_6_averages": [
+        77.0
+      ],
+      "average": 77.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UCN",
+      "top_6_averages": [
+        88.0,
+        89.0
+      ],
+      "average": 88.5
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UD",
+      "top_6_averages": [
+        89.0
+      ],
+      "average": 89.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UDA",
+      "top_6_averages": [
+        95.0,
+        93.6,
+        86.0
+      ],
+      "average": 91.5333
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UDH",
+      "top_6_averages": [
+        84.0,
+        87.0
+      ],
+      "average": 85.5
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UDM",
+      "top_6_averages": [
+        89.0
+      ],
+      "average": 89.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UDS",
+      "top_6_averages": [
+        97.0,
+        92.0,
+        92.0,
+        88.5
+      ],
+      "average": 92.375
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UE",
+      "top_6_averages": [
+        91.0,
+        87.66,
+        95.0,
+        84.0
+      ],
+      "average": 89.415
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UED",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UFA",
+      "top_6_averages": [
+        89.0,
+        95.3,
+        95.0,
+        95.0,
+        93.66,
+        92.0,
+        83.0,
+        89.0,
+        87.0,
+        90.75
+      ],
+      "average": 90.971
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UFT",
+      "top_6_averages": [
+        94.0
+      ],
+      "average": 94.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UH",
+      "top_6_averages": [
+        82.68,
+        89.67,
+        88.3,
+        89.0,
+        83.0,
+        83.0
+      ],
+      "average": 85.9417
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UHC",
+      "top_6_averages": [
+        95.0
+      ],
+      "average": 95.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UHP",
+      "top_6_averages": [
+        87.0
+      ],
+      "average": 87.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UID",
+      "top_6_averages": [
+        95.5
+      ],
+      "average": 95.5
+    },
+    {
+      "university": "Laurier",
+      "program_code": "ULA",
+      "top_6_averages": [
+        89.0,
+        89.0,
+        91.0
+      ],
+      "average": 89.6667
+    },
+    {
+      "university": "Laurier",
+      "program_code": "ULS",
+      "top_6_averages": [
+        84.0
+      ],
+      "average": 84.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UMA",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UMG",
+      "top_6_averages": [
+        93.0,
+        89.0
+      ],
+      "average": 91.0
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UMT",
+      "top_6_averages": [
+        89.0,
+        83.6
+      ],
+      "average": 86.3
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UPS",
+      "top_6_averages": [
+        93.16,
+        81.0,
+        91.0,
+        90.16
+      ],
+      "average": 88.83
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UPS; UMX",
+      "top_6_averages": [
+        93.3
+      ],
+      "average": 93.3
+    },
+    {
+      "university": "Laurier",
+      "program_code": "USH",
+      "top_6_averages": [
+        95.0,
+        89.0,
+        94.0,
+        87.0,
+        93.0,
+        92.3,
+        88.7,
+        94.0,
+        90.7,
+        95.0,
+        94.0,
+        91.0,
+        84.0,
+        93.0,
+        92.0,
+        94.0,
+        85.5,
+        97.0,
+        89.0,
+        84.0
+      ],
+      "average": 91.11
+    },
+    {
+      "university": "Laurier",
+      "program_code": "USH; UMT",
+      "top_6_averages": [
+        93.3
+      ],
+      "average": 93.3
+    },
+    {
+      "university": "Laurier",
+      "program_code": "USM",
+      "top_6_averages": [
+        93.67
+      ],
+      "average": 93.67
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UWA",
+      "top_6_averages": [
+        88.7
+      ],
+      "average": 88.7
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UWB",
+      "top_6_averages": [
+        99.0,
+        90.3,
+        99.5,
+        96.67,
+        96.0,
+        97.0
+      ],
+      "average": 96.4117
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UWC",
+      "top_6_averages": [
+        94.2
+      ],
+      "average": 94.2
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UWW",
+      "top_6_averages": [
+        96.33,
+        97.0
+      ],
+      "average": 96.665
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UXA",
+      "top_6_averages": [
+        95.0,
+        95.0,
+        93.0,
+        91.33,
+        88.0,
+        88.3,
+        90.5
+      ],
+      "average": 91.59
+    },
+    {
+      "university": "Laurier",
+      "program_code": "UYT",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "McMaster",
+      "program_code": "",
+      "top_6_averages": [
+        84.33
+      ],
+      "average": 84.33
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MAT",
+      "top_6_averages": [
+        89.33
+      ],
+      "average": 89.33
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MB",
+      "top_6_averages": [
+        90.3,
+        95.5,
+        94.0,
+        92.67,
+        92.0,
+        91.4,
+        88.33,
+        96.0,
+        93.8,
+        93.66,
+        92.0,
+        89.0,
+        87.0,
+        86.25,
+        92.83,
+        86.3,
+        85.5,
+        90.0
+      ],
+      "average": 90.9189
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MBH",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MC",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MCC",
+      "top_6_averages": [
+        96.5,
+        94.0,
+        97.33,
+        96.25,
+        95.66,
+        95.33,
+        95.0,
+        94.8,
+        94.67,
+        97.8,
+        94.0,
+        92.25,
+        96.5,
+        95.67,
+        93.5,
+        92.33,
+        96.41
+      ],
+      "average": 95.1765
+    },
+    {
+      "university": "McMaster",
+      "program_code": "ME",
+      "top_6_averages": [
+        97.0,
+        96.33,
+        96.0,
+        96.0,
+        96.0,
+        93.0,
+        97.67,
+        94.0,
+        95.3
+      ],
+      "average": 95.7
+    },
+    {
+      "university": "McMaster",
+      "program_code": "ME or MEC",
+      "top_6_averages": [
+        97.5,
+        96.0
+      ],
+      "average": 96.75
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MEC",
+      "top_6_averages": [
+        100.0,
+        98.67,
+        98.0,
+        98.0,
+        97.33,
+        97.33,
+        97.17,
+        97.0,
+        97.0,
+        96.67,
+        95.7,
+        95.0,
+        94.33,
+        93.83,
+        93.75,
+        93.67,
+        93.5,
+        92.8,
+        98.0,
+        97.5,
+        96.0,
+        95.83,
+        95.66,
+        95.2,
+        93.16,
+        93.0,
+        92.83,
+        92.66,
+        95.33,
+        91.33,
+        95.0
+      ],
+      "average": 95.5242
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MEE",
+      "top_6_averages": [
+        88.33,
+        87.25,
+        86.0
+      ],
+      "average": 87.1933
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MEH",
+      "top_6_averages": [
+        96.5
+      ],
+      "average": 96.5
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MEI",
+      "top_6_averages": [
+        99.4,
+        92.67,
+        98.9,
+        98.0,
+        97.5,
+        97.0,
+        96.0,
+        94.8,
+        97.67,
+        96.0
+      ],
+      "average": 96.794
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MH",
+      "top_6_averages": [
+        93.33,
+        87.0,
+        88.0
+      ],
+      "average": 89.4433
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MIS",
+      "top_6_averages": [
+        94.8,
+        96.67,
+        93.67
+      ],
+      "average": 95.0467
+    },
+    {
+      "university": "McMaster",
+      "program_code": "ML",
+      "top_6_averages": [
+        91.83,
+        89.0,
+        90.4,
+        96.0,
+        92.5,
+        90.0,
+        96.5,
+        92.5,
+        90.16,
+        87.0,
+        86.33,
+        81.83
+      ],
+      "average": 90.3375
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MLE",
+      "top_6_averages": [
+        87.0
+      ],
+      "average": 87.0
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MLS",
+      "top_6_averages": [
+        99.33,
+        99.33,
+        97.67,
+        97.33,
+        96.0,
+        96.0,
+        96.0,
+        95.67,
+        95.66,
+        95.0,
+        95.0,
+        94.25,
+        94.0,
+        98.5,
+        95.67,
+        93.5,
+        94.17,
+        96.0,
+        94.69,
+        94.5,
+        94.5,
+        94.33,
+        94.0,
+        94.0,
+        94.0,
+        93.33,
+        93.0,
+        92.83,
+        92.8,
+        95.33,
+        91.0
+      ],
+      "average": 95.0771
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MN",
+      "top_6_averages": [
+        94.0,
+        98.5,
+        97.0,
+        96.0,
+        94.33,
+        94.0,
+        93.83,
+        93.33,
+        93.17,
+        93.88
+      ],
+      "average": 94.804
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MNM",
+      "top_6_averages": [
+        94.0,
+        90.83
+      ],
+      "average": 92.415
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MNS",
+      "top_6_averages": [
+        98.83,
+        98.5,
+        98.5,
+        97.0,
+        96.0,
+        91.83,
+        91.67,
+        91.0
+      ],
+      "average": 95.4163
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MPS",
+      "top_6_averages": [
+        88.33,
+        93.0,
+        91.25,
+        89.0,
+        85.0
+      ],
+      "average": 89.316
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MPT",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MRS",
+      "top_6_averages": [
+        95.33
+      ],
+      "average": 95.33
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MTT",
+      "top_6_averages": [
+        92.0
+      ],
+      "average": 92.0
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MV",
+      "top_6_averages": [
+        95.0,
+        95.0,
+        94.0,
+        93.5,
+        93.0,
+        92.12,
+        90.17,
+        97.5,
+        96.0,
+        92.8,
+        92.0,
+        92.0
+      ],
+      "average": 93.5908
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MX",
+      "top_6_averages": [
+        98.17
+      ],
+      "average": 98.17
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MY",
+      "top_6_averages": [
+        92.0
+      ],
+      "average": 92.0
+    },
+    {
+      "university": "McMaster",
+      "program_code": "MZ",
+      "top_6_averages": [
+        96.33,
+        96.0,
+        95.6,
+        93.66,
+        92.33,
+        91.83,
+        91.0,
+        93.0
+      ],
+      "average": 93.7188
+    },
+    {
+      "university": "New York University",
+      "program_code": "",
+      "top_6_averages": [
+        97.8
+      ],
+      "average": 97.8
+    },
+    {
+      "university": "Nipissing",
+      "program_code": "PEA",
+      "top_6_averages": [
+        90.0
+      ],
+      "average": 90.0
+    },
+    {
+      "university": "Nipissing",
+      "program_code": "PSN",
+      "top_6_averages": [
+        94.0
+      ],
+      "average": 94.0
+    },
+    {
+      "university": "OCAD",
+      "program_code": "HGD",
+      "top_6_averages": [
+        85.0
+      ],
+      "average": 85.0
+    },
+    {
+      "university": "OCAD",
+      "program_code": "HIL",
+      "top_6_averages": [
+        96.5
+      ],
+      "average": 96.5
+    },
+    {
+      "university": "OCAD",
+      "program_code": "HPT",
+      "top_6_averages": [
+        73.0
+      ],
+      "average": 73.0
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DAO",
+      "top_6_averages": [
+        93.25
+      ],
+      "average": 93.25
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DBF",
+      "top_6_averages": [
+        60.0
+      ],
+      "average": 60.0
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DCD",
+      "top_6_averages": [
+        86.0,
+        88.0,
+        99.33
+      ],
+      "average": 91.11
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DCE",
+      "top_6_averages": [
+        96.0
+      ],
+      "average": 96.0
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DCN",
+      "top_6_averages": [
+        81.33,
+        89.0,
+        90.5,
+        88.0,
+        87.33
+      ],
+      "average": 87.232
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DCO",
+      "top_6_averages": [
+        95.0,
+        84.0,
+        92.2,
+        96.17
+      ],
+      "average": 91.8425
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DCT",
+      "top_6_averages": [
+        88.17
+      ],
+      "average": 88.17
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DCW",
+      "top_6_averages": [
+        97.5,
+        93.33
+      ],
+      "average": 95.415
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DEE",
+      "top_6_averages": [
+        91.0
+      ],
+      "average": 91.0
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DEH",
+      "top_6_averages": [
+        97.2
+      ],
+      "average": 97.2
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DEN",
+      "top_6_averages": [
+        93.78
+      ],
+      "average": 93.78
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DEO",
+      "top_6_averages": [
+        89.0
+      ],
+      "average": 89.0
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DHL",
+      "top_6_averages": [
+        88.0
+      ],
+      "average": 88.0
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DHN",
+      "top_6_averages": [
+        94.0,
+        97.0,
+        93.0,
+        90.0,
+        91.16
+      ],
+      "average": 93.032
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DNC",
+      "top_6_averages": [
+        96.0
+      ],
+      "average": 96.0
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DSN",
+      "top_6_averages": [
+        88.25
+      ],
+      "average": 88.25
+    },
+    {
+      "university": "Ontario Tech",
+      "program_code": "DSW",
+      "top_6_averages": [
+        89.0
+      ],
+      "average": 89.0
+    },
+    {
+      "university": "Polytechnique Montréal",
+      "program_code": "",
+      "top_6_averages": [
+        92.0
+      ],
+      "average": 92.0
+    },
+    {
+      "university": "Queen's",
+      "program_code": "QA",
+      "top_6_averages": [
+        96.0,
+        97.0,
+        96.33,
+        96.0,
+        94.16,
+        89.0,
+        91.83,
+        94.0,
+        87.33,
+        89.67,
+        85.33,
+        84.0
+      ],
+      "average": 91.7208
+    },
+    {
+      "university": "Queen's",
+      "program_code": "QB",
+      "top_6_averages": [
+        97.5,
+        97.0,
+        96.33,
+        96.5,
+        92.33,
+        96.67
+      ],
+      "average": 96.055
+    },
+    {
+      "university": "Queen's",
+      "program_code": "QC",
+      "top_6_averages": [
+        91.0,
+        95.0,
+        96.5,
+        95.67,
+        94.3,
+        92.5,
+        93.2,
+        97.5,
+        96.8,
+        93.5,
+        87.5
+      ],
+      "average": 93.9518
+    },
+    {
+      "university": "Queen's",
+      "program_code": "QD",
+      "top_6_averages": [
+        97.75,
+        97.0,
+        97.0,
+        95.6,
+        94.0,
+        93.83,
+        93.67,
+        93.66,
+        93.0,
+        92.6,
+        92.5,
+        91.75,
+        94.66,
+        92.0,
+        91.83,
+        96.0,
+        88.67,
+        87.0,
+        84.33
+      ],
+      "average": 92.9921
+    },
+    {
+      "university": "Queen's",
+      "program_code": "QE",
+      "top_6_averages": [
+        87.2,
+        94.0,
+        95.8,
+        98.8,
+        98.25,
+        97.8,
+        97.8,
+        97.6,
+        97.2,
+        98.0,
+        97.6,
+        96.0,
+        96.4,
+        95.0,
+        97.3,
+        96.4,
+        95.7,
+        95.6,
+        94.83,
+        96.0,
+        93.6,
+        94.8,
+        90.67,
+        94.8,
+        95.0
+      ],
+      "average": 95.686
+    },
+    {
+      "university": "Queen's",
+      "program_code": "QEC",
+      "top_6_averages": [
+        91.4,
+        99.5,
+        97.5,
+        89.0,
+        97.75,
+        96.33,
+        96.0,
+        92.5
+      ],
+      "average": 94.9975
+    },
+    {
+      "university": "Queen's",
+      "program_code": "QEM",
+      "top_6_averages": [
+        99.5,
+        97.5,
+        97.0,
+        95.8
+      ],
+      "average": 97.45
+    },
+    {
+      "university": "Queen's",
+      "program_code": "QF",
+      "top_6_averages": [
+        98.5,
+        99.0,
+        94.0,
+        92.2,
+        91.83
+      ],
+      "average": 95.106
+    },
+    {
+      "university": "Queen's",
+      "program_code": "QH",
+      "top_6_averages": [
+        99.0,
+        99.0,
+        97.5,
+        96.3,
+        99.33,
+        97.67,
+        97.17
+      ],
+      "average": 97.9957
+    },
+    {
+      "university": "Queen's",
+      "program_code": "QK",
+      "top_6_averages": [
+        94.0
+      ],
+      "average": 94.0
+    },
+    {
+      "university": "Queen's",
+      "program_code": "QL",
+      "top_6_averages": [
+        95.0,
+        99.67,
+        97.0,
+        96.3,
+        96.0,
+        96.0,
+        95.0,
+        96.0,
+        94.0,
+        93.2,
+        91.83,
+        92.67,
+        90.67,
+        94.5
+      ],
+      "average": 94.8457
+    },
+    {
+      "university": "Queen's",
+      "program_code": "QN",
+      "top_6_averages": [
+        94.8,
+        92.6,
+        90.5,
+        94.8,
+        93.16,
+        93.0
+      ],
+      "average": 93.1433
+    },
+    {
+      "university": "Queen's",
+      "program_code": "QS",
+      "top_6_averages": [
+        94.0,
+        93.67,
+        93.0,
+        91.0,
+        96.4,
+        92.75,
+        83.0
+      ],
+      "average": 91.9743
+    },
+    {
+      "university": "TMU",
+      "program_code": "",
+      "top_6_averages": [
+        90.0
+      ],
+      "average": 90.0
+    },
+    {
+      "university": "TMU",
+      "program_code": "SAA",
+      "top_6_averages": [
+        93.0,
+        92.0,
+        92.16
+      ],
+      "average": 92.3867
+    },
+    {
+      "university": "TMU",
+      "program_code": "SAB",
+      "top_6_averages": [
+        97.5,
+        90.33,
+        91.0,
+        89.16,
+        97.16,
+        86.66,
+        86.0,
+        88.0
+      ],
+      "average": 90.7262
+    },
+    {
+      "university": "TMU",
+      "program_code": "SAC",
+      "top_6_averages": [
+        96.0
+      ],
+      "average": 96.0
+    },
+    {
+      "university": "TMU",
+      "program_code": "SAD",
+      "top_6_averages": [
+        92.5,
+        98.17,
+        96.4
+      ],
+      "average": 95.69
+    },
+    {
+      "university": "TMU",
+      "program_code": "SAH",
+      "top_6_averages": [
+        81.67
+      ],
+      "average": 81.67
+    },
+    {
+      "university": "TMU",
+      "program_code": "SBB",
+      "top_6_averages": [
+        88.0,
+        82.0
+      ],
+      "average": 85.0
+    },
+    {
+      "university": "TMU",
+      "program_code": "SBI",
+      "top_6_averages": [
+        92.5,
+        88.7
+      ],
+      "average": 90.6
+    },
+    {
+      "university": "TMU",
+      "program_code": "SBO",
+      "top_6_averages": [
+        93.2,
+        93.0,
+        89.0,
+        86.0,
+        93.16
+      ],
+      "average": 90.872
+    },
+    {
+      "university": "TMU",
+      "program_code": "SBS",
+      "top_6_averages": [
+        99.0,
+        97.5,
+        90.5,
+        94.0,
+        90.0,
+        90.25,
+        89.0,
+        89.2,
+        91.0
+      ],
+      "average": 92.2722
+    },
+    {
+      "university": "TMU",
+      "program_code": "SBX",
+      "top_6_averages": [
+        84.0,
+        89.0,
+        86.0
+      ],
+      "average": 86.3333
+    },
+    {
+      "university": "TMU",
+      "program_code": "SCD",
+      "top_6_averages": [
+        70.0
+      ],
+      "average": 70.0
+    },
+    {
+      "university": "TMU",
+      "program_code": "SCE",
+      "top_6_averages": [
+        97.5,
+        96.0,
+        96.2,
+        94.0,
+        92.0,
+        85.0
+      ],
+      "average": 93.45
+    },
+    {
+      "university": "TMU",
+      "program_code": "SCF",
+      "top_6_averages": [
+        96.0,
+        87.5
+      ],
+      "average": 91.75
+    },
+    {
+      "university": "TMU",
+      "program_code": "SCG",
+      "top_6_averages": [
+        90.25,
+        92.4,
+        87.5
+      ],
+      "average": 90.05
+    },
+    {
+      "university": "TMU",
+      "program_code": "SCH",
+      "top_6_averages": [
+        87.6,
+        89.0
+      ],
+      "average": 88.3
+    },
+    {
+      "university": "TMU",
+      "program_code": "SCY",
+      "top_6_averages": [
+        93.0,
+        95.33
+      ],
+      "average": 94.165
+    },
+    {
+      "university": "TMU",
+      "program_code": "SDM",
+      "top_6_averages": [
+        89.5,
+        70.0
+      ],
+      "average": 79.75
+    },
+    {
+      "university": "TMU",
+      "program_code": "SEH",
+      "top_6_averages": [
+        95.33,
+        80.0
+      ],
+      "average": 87.665
+    },
+    {
+      "university": "TMU",
+      "program_code": "SEJ",
+      "top_6_averages": [
+        96.0,
+        93.83,
+        91.5
+      ],
+      "average": 93.7767
+    },
+    {
+      "university": "TMU",
+      "program_code": "SEU",
+      "top_6_averages": [
+        95.6,
+        93.75,
+        92.5
+      ],
+      "average": 93.95
+    },
+    {
+      "university": "TMU",
+      "program_code": "SIE",
+      "top_6_averages": [
+        91.0,
+        89.0
+      ],
+      "average": 90.0
+    },
+    {
+      "university": "TMU",
+      "program_code": "SMM",
+      "top_6_averages": [
+        87.0,
+        95.0,
+        75.0,
+        87.0
+      ],
+      "average": 86.0
+    },
+    {
+      "university": "TMU",
+      "program_code": "SMP",
+      "top_6_averages": [
+        89.0
+      ],
+      "average": 89.0
+    },
+    {
+      "university": "TMU",
+      "program_code": "SMW",
+      "top_6_averages": [
+        96.0,
+        95.0,
+        90.5
+      ],
+      "average": 93.8333
+    },
+    {
+      "university": "TMU",
+      "program_code": "SNG",
+      "top_6_averages": [
+        94.0,
+        93.0,
+        97.0,
+        89.5,
+        84.5
+      ],
+      "average": 91.6
+    },
+    {
+      "university": "TMU",
+      "program_code": "SNN",
+      "top_6_averages": [
+        89.0,
+        91.17
+      ],
+      "average": 90.085
+    },
+    {
+      "university": "TMU",
+      "program_code": "SNX",
+      "top_6_averages": [
+        96.0,
+        90.86,
+        96.0,
+        88.0,
+        95.2,
+        93.33,
+        90.0,
+        91.0
+      ],
+      "average": 92.5487
+    },
+    {
+      "university": "TMU",
+      "program_code": "SPA",
+      "top_6_averages": [
+        95.17
+      ],
+      "average": 95.17
+    },
+    {
+      "university": "TMU",
+      "program_code": "SPB",
+      "top_6_averages": [
+        91.0
+      ],
+      "average": 91.0
+    },
+    {
+      "university": "TMU",
+      "program_code": "SPG",
+      "top_6_averages": [
+        90.0,
+        90.5,
+        81.67
+      ],
+      "average": 87.39
+    },
+    {
+      "university": "TMU",
+      "program_code": "SPS",
+      "top_6_averages": [
+        94.0,
+        93.0,
+        87.0,
+        84.8
+      ],
+      "average": 89.7
+    },
+    {
+      "university": "TMU",
+      "program_code": "SQA",
+      "top_6_averages": [
+        94.0,
+        92.0,
+        89.1,
+        91.0,
+        92.83
+      ],
+      "average": 91.786
+    },
+    {
+      "university": "TMU",
+      "program_code": "SQB",
+      "top_6_averages": [
+        97.0,
+        98.1,
+        92.0
+      ],
+      "average": 95.7
+    },
+    {
+      "university": "TMU",
+      "program_code": "SQC",
+      "top_6_averages": [
+        94.5,
+        89.33
+      ],
+      "average": 91.915
+    },
+    {
+      "university": "TMU",
+      "program_code": "SRD",
+      "top_6_averages": [
+        88.5,
+        70.0
+      ],
+      "average": 79.25
+    },
+    {
+      "university": "TMU",
+      "program_code": "SRT",
+      "top_6_averages": [
+        91.0
+      ],
+      "average": 91.0
+    },
+    {
+      "university": "TMU",
+      "program_code": "SSE",
+      "top_6_averages": [
+        80.0
+      ],
+      "average": 80.0
+    },
+    {
+      "university": "TMU",
+      "program_code": "SSO",
+      "top_6_averages": [
+        95.33
+      ],
+      "average": 95.33
+    },
+    {
+      "university": "TMU",
+      "program_code": "STR",
+      "top_6_averages": [
+        93.0,
+        96.0
+      ],
+      "average": 94.5
+    },
+    {
+      "university": "TMU",
+      "program_code": "SUN",
+      "top_6_averages": [
+        84.0
+      ],
+      "average": 84.0
+    },
+    {
+      "university": "TMU",
+      "program_code": "SUP",
+      "top_6_averages": [
+        97.8,
+        89.5,
+        90.0,
+        91.0,
+        94.33,
+        94.5
+      ],
+      "average": 92.855
+    },
+    {
+      "university": "Trent",
+      "program_code": "",
+      "top_6_averages": [
+        96.0,
+        93.0
+      ],
+      "average": 94.5
+    },
+    {
+      "university": "Trent",
+      "program_code": "RAP",
+      "top_6_averages": [
+        62.16
+      ],
+      "average": 62.16
+    },
+    {
+      "university": "Trent",
+      "program_code": "RBS",
+      "top_6_averages": [
+        95.0,
+        81.0,
+        91.0
+      ],
+      "average": 89.0
+    },
+    {
+      "university": "Trent",
+      "program_code": "RCE",
+      "top_6_averages": [
+        82.0
+      ],
+      "average": 82.0
+    },
+    {
+      "university": "Trent",
+      "program_code": "RCN",
+      "top_6_averages": [
+        94.0,
+        90.67,
+        90.0,
+        93.2
+      ],
+      "average": 91.9675
+    },
+    {
+      "university": "Trent",
+      "program_code": "RDL",
+      "top_6_averages": [
+        84.0
+      ],
+      "average": 84.0
+    },
+    {
+      "university": "Trent",
+      "program_code": "RIO",
+      "top_6_averages": [
+        88.33
+      ],
+      "average": 88.33
+    },
+    {
+      "university": "Trent",
+      "program_code": "RKA",
+      "top_6_averages": [
+        94.8
+      ],
+      "average": 94.8
+    },
+    {
+      "university": "Trent",
+      "program_code": "RMD",
+      "top_6_averages": [
+        96.0,
+        94.8
+      ],
+      "average": 95.4
+    },
+    {
+      "university": "Trent",
+      "program_code": "ROQ",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "Trent",
+      "program_code": "RPS",
+      "top_6_averages": [
+        79.0
+      ],
+      "average": 79.0
+    },
+    {
+      "university": "Trent",
+      "program_code": "RPU",
+      "top_6_averages": [
+        90.5
+      ],
+      "average": 90.5
+    },
+    {
+      "university": "Trent",
+      "program_code": "RSU",
+      "top_6_averages": [
+        90.67,
+        88.25,
+        75.0
+      ],
+      "average": 84.64
+    },
+    {
+      "university": "Trent",
+      "program_code": "RTA",
+      "top_6_averages": [
+        91.0
+      ],
+      "average": 91.0
+    },
+    {
+      "university": "Trent",
+      "program_code": "RTS",
+      "top_6_averages": [
+        95.0,
+        95.83
+      ],
+      "average": 95.415
+    },
+    {
+      "university": "Trent",
+      "program_code": "RUF",
+      "top_6_averages": [
+        86.0,
+        88.25
+      ],
+      "average": 87.125
+    },
+    {
+      "university": "Trent",
+      "program_code": "RZN",
+      "top_6_averages": [
+        80.0
+      ],
+      "average": 80.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OBA",
+      "top_6_averages": [
+        96.0,
+        90.0,
+        94.0
+      ],
+      "average": 93.3333
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OBC",
+      "top_6_averages": [
+        96.33333,
+        95.0,
+        94.2,
+        83.0
+      ],
+      "average": 92.1333
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OBE",
+      "top_6_averages": [
+        98.0,
+        92.0,
+        92.0,
+        92.17,
+        90.0,
+        90.0,
+        91.83
+      ],
+      "average": 92.2857
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OCJ",
+      "top_6_averages": [
+        94.5
+      ],
+      "average": 94.5
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OCT",
+      "top_6_averages": [
+        95.0
+      ],
+      "average": 95.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OEE",
+      "top_6_averages": [
+        80.0,
+        96.0,
+        95.5,
+        89.33
+      ],
+      "average": 90.2075
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OEY",
+      "top_6_averages": [
+        96.33333,
+        93.67
+      ],
+      "average": 95.0017
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OHE",
+      "top_6_averages": [
+        95.6,
+        90.0,
+        90.0
+      ],
+      "average": 91.8667
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OIC",
+      "top_6_averages": [
+        93.0,
+        96.8
+      ],
+      "average": 94.9
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OIE",
+      "top_6_averages": [
+        84.0,
+        91.67,
+        85.0
+      ],
+      "average": 86.89
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OJA",
+      "top_6_averages": [
+        95.3,
+        95.6,
+        97.5,
+        91.83
+      ],
+      "average": 95.0575
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OJB",
+      "top_6_averages": [
+        95.0
+      ],
+      "average": 95.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OJE",
+      "top_6_averages": [
+        97.8,
+        92.0,
+        96.0,
+        90.0,
+        89.0,
+        86.0,
+        86.0
+      ],
+      "average": 90.9714
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OJM",
+      "top_6_averages": [
+        94.0
+      ],
+      "average": 94.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OKA",
+      "top_6_averages": [
+        73.0,
+        76.3
+      ],
+      "average": 74.65
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OKC",
+      "top_6_averages": [
+        86.0,
+        97.0,
+        95.0,
+        94.4,
+        96.0,
+        96.0,
+        95.0,
+        90.5,
+        87.3,
+        94.0,
+        90.65
+      ],
+      "average": 92.8955
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "ONA",
+      "top_6_averages": [
+        92.88,
+        90.67
+      ],
+      "average": 91.775
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "ONE",
+      "top_6_averages": [
+        93.17,
+        94.8
+      ],
+      "average": 93.985
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "ORA",
+      "top_6_averages": [
+        97.0
+      ],
+      "average": 97.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "ORC",
+      "top_6_averages": [
+        95.4,
+        98.0,
+        98.83,
+        97.6,
+        97.0,
+        96.83,
+        91.0,
+        94.8,
+        93.66,
+        93.5,
+        92.6,
+        93.4,
+        88.67,
+        90.02,
+        90.5,
+        90.0,
+        83.83,
+        84.98
+      ],
+      "average": 92.8122
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OTC",
+      "top_6_averages": [
+        95.67,
+        93.4,
+        91.0,
+        91.0,
+        86.56,
+        84.2,
+        85.0
+      ],
+      "average": 89.5471
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OTO",
+      "top_6_averages": [
+        92.5,
+        91.7,
+        85.0
+      ],
+      "average": 89.7333
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OTS",
+      "top_6_averages": [
+        95.55
+      ],
+      "average": 95.55
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OUM",
+      "top_6_averages": [
+        90.67
+      ],
+      "average": 90.67
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OUN",
+      "top_6_averages": [
+        93.5,
+        86.0,
+        96.0,
+        94.0,
+        94.0,
+        93.5,
+        93.0,
+        91.0,
+        89.0,
+        95.0,
+        94.0,
+        85.0,
+        92.8,
+        85.0,
+        89.5,
+        85.0
+      ],
+      "average": 91.0187
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OUQ",
+      "top_6_averages": [
+        91.2,
+        90.67,
+        91.3,
+        89.0,
+        85.0
+      ],
+      "average": 89.434
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OUR",
+      "top_6_averages": [
+        93.5,
+        93.5,
+        89.0
+      ],
+      "average": 92.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OUS",
+      "top_6_averages": [
+        87.6
+      ],
+      "average": 87.6
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OUT",
+      "top_6_averages": [
+        91.0
+      ],
+      "average": 91.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OUW",
+      "top_6_averages": [
+        92.0,
+        86.0
+      ],
+      "average": 89.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OUY",
+      "top_6_averages": [
+        94.0
+      ],
+      "average": 94.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OUZ",
+      "top_6_averages": [
+        91.0
+      ],
+      "average": 91.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OVA",
+      "top_6_averages": [
+        99.0
+      ],
+      "average": 99.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OVY",
+      "top_6_averages": [
+        90.5
+      ],
+      "average": 90.5
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OWI",
+      "top_6_averages": [
+        97.0,
+        96.0,
+        87.0
+      ],
+      "average": 93.3333
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OWM",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OXC",
+      "top_6_averages": [
+        92.0,
+        79.0
+      ],
+      "average": 85.5
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OXD",
+      "top_6_averages": [
+        92.0,
+        78.0
+      ],
+      "average": 85.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OXL",
+      "top_6_averages": [
+        92.5,
+        92.5,
+        87.0,
+        88.0,
+        89.67
+      ],
+      "average": 89.934
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OXM",
+      "top_6_averages": [
+        90.0,
+        94.0,
+        75.0,
+        90.0
+      ],
+      "average": 87.25
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OXN",
+      "top_6_averages": [
+        91.0,
+        88.0,
+        87.6
+      ],
+      "average": 88.8667
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OXV",
+      "top_6_averages": [
+        84.0,
+        84.0,
+        94.67
+      ],
+      "average": 87.5567
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OXW",
+      "top_6_averages": [
+        96.0,
+        81.67
+      ],
+      "average": 88.835
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OXX",
+      "top_6_averages": [
+        98.0
+      ],
+      "average": 98.0
+    },
+    {
+      "university": "UOttawa",
+      "program_code": "OXZ",
+      "top_6_averages": [
+        90.0,
+        98.0,
+        92.5,
+        90.0,
+        81.67,
+        92.0,
+        81.0
+      ],
+      "average": 89.31
+    },
+    {
+      "university": "UTM",
+      "program_code": "TMC",
+      "top_6_averages": [
+        94.66
+      ],
+      "average": 94.66
+    },
+    {
+      "university": "UTM",
+      "program_code": "TME",
+      "top_6_averages": [
+        95.0,
+        90.0,
+        88.33,
+        91.83,
+        86.25,
+        86.0
+      ],
+      "average": 89.5683
+    },
+    {
+      "university": "UTM",
+      "program_code": "TMG",
+      "top_6_averages": [
+        90.0
+      ],
+      "average": 90.0
+    },
+    {
+      "university": "UTM",
+      "program_code": "TMH",
+      "top_6_averages": [
+        97.0,
+        73.0
+      ],
+      "average": 85.0
+    },
+    {
+      "university": "UTM",
+      "program_code": "TMK",
+      "top_6_averages": [
+        92.66,
+        92.33,
+        92.3,
+        88.25
+      ],
+      "average": 91.385
+    },
+    {
+      "university": "UTM",
+      "program_code": "TML",
+      "top_6_averages": [
+        99.2,
+        94.67,
+        92.67,
+        92.6,
+        90.25,
+        97.0,
+        95.33,
+        89.0,
+        83.0,
+        80.0
+      ],
+      "average": 91.372
+    },
+    {
+      "university": "UTM",
+      "program_code": "TMP",
+      "top_6_averages": [
+        91.0
+      ],
+      "average": 91.0
+    },
+    {
+      "university": "UTM",
+      "program_code": "TMS",
+      "top_6_averages": [
+        86.0,
+        86.0
+      ],
+      "average": 86.0
+    },
+    {
+      "university": "UTM",
+      "program_code": "TMW",
+      "top_6_averages": [
+        82.0
+      ],
+      "average": 82.0
+    },
+    {
+      "university": "UTM",
+      "program_code": "TMZ",
+      "top_6_averages": [
+        95.8,
+        96.83,
+        95.4,
+        95.3,
+        94.6,
+        91.75,
+        98.33,
+        97.67,
+        93.0,
+        92.16,
+        93.0
+      ],
+      "average": 94.8945
+    },
+    {
+      "university": "UTSc",
+      "program_code": "TPS",
+      "top_6_averages": [
+        94.25
+      ],
+      "average": 94.25
+    },
+    {
+      "university": "UTSc",
+      "program_code": "TQX",
+      "top_6_averages": [
+        91.33
+      ],
+      "average": 91.33
+    },
+    {
+      "university": "UTSc",
+      "program_code": "TSL",
+      "top_6_averages": [
+        92.67,
+        90.25,
+        90.67,
+        79.0
+      ],
+      "average": 88.1475
+    },
+    {
+      "university": "UTSc",
+      "program_code": "TSM",
+      "top_6_averages": [
+        95.0,
+        94.0,
+        93.66,
+        90.3,
+        90.33
+      ],
+      "average": 92.658
+    },
+    {
+      "university": "UTSc",
+      "program_code": "TSP",
+      "top_6_averages": [
+        90.15,
+        90.16
+      ],
+      "average": 90.155
+    },
+    {
+      "university": "UTSc",
+      "program_code": "TUD",
+      "top_6_averages": [
+        81.83
+      ],
+      "average": 81.83
+    },
+    {
+      "university": "UTSc",
+      "program_code": "TXB",
+      "top_6_averages": [
+        95.5
+      ],
+      "average": 95.5
+    },
+    {
+      "university": "UTSc",
+      "program_code": "TXC",
+      "top_6_averages": [
+        94.8,
+        97.8,
+        96.67,
+        95.66,
+        94.8,
+        93.5,
+        95.33,
+        97.16,
+        97.0,
+        96.8,
+        96.0,
+        95.67,
+        95.0,
+        94.67,
+        93.0,
+        93.0
+      ],
+      "average": 95.4287
+    },
+    {
+      "university": "UTSc",
+      "program_code": "TXD",
+      "top_6_averages": [
+        95.5,
+        93.4,
+        92.67,
+        92.6,
+        90.67,
+        86.7
+      ],
+      "average": 91.9233
+    },
+    {
+      "university": "UTSc",
+      "program_code": "TXQ",
+      "top_6_averages": [
+        95.0,
+        89.66
+      ],
+      "average": 92.33
+    },
+    {
+      "university": "UTSc",
+      "program_code": "TXU",
+      "top_6_averages": [
+        98.5,
+        92.0
+      ],
+      "average": 95.25
+    },
+    {
+      "university": "UVIC",
+      "program_code": "",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TAC",
+      "top_6_averages": [
+        96.8,
+        96.0,
+        96.0,
+        95.83,
+        92.75,
+        99.3,
+        98.1,
+        97.83,
+        96.8,
+        95.2,
+        94.0,
+        92.33,
+        91.0,
+        90.0,
+        95.0,
+        93.5,
+        92.0,
+        98.0,
+        97.0,
+        95.0,
+        91.7
+      ],
+      "average": 94.959
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TAD",
+      "top_6_averages": [
+        98.86,
+        98.11,
+        97.6,
+        97.5,
+        96.33,
+        96.12,
+        94.83,
+        96.5,
+        94.3,
+        98.17,
+        98.0,
+        97.0,
+        96.83,
+        96.0,
+        95.83,
+        95.67,
+        95.33,
+        99.5,
+        99.2
+      ],
+      "average": 96.9305
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TAH",
+      "top_6_averages": [
+        97.0,
+        93.0,
+        86.7,
+        90.5
+      ],
+      "average": 91.8
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TAX",
+      "top_6_averages": [
+        94.5,
+        97.0,
+        96.0,
+        94.0,
+        86.0,
+        92.33,
+        92.0,
+        91.0,
+        96.5
+      ],
+      "average": 93.2589
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TB",
+      "top_6_averages": [
+        94.5,
+        95.0
+      ],
+      "average": 94.75
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TCS",
+      "top_6_averages": [
+        98.6,
+        96.5,
+        96.33,
+        94.4,
+        97.6,
+        96.0,
+        95.0,
+        94.67,
+        94.4,
+        94.4
+      ],
+      "average": 95.79
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TE",
+      "top_6_averages": [
+        97.0
+      ],
+      "average": 97.0
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TEO",
+      "top_6_averages": [
+        98.67,
+        94.6,
+        95.0
+      ],
+      "average": 96.09
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TG",
+      "top_6_averages": [
+        90.8
+      ],
+      "average": 90.8
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TI",
+      "top_6_averages": [
+        93.6
+      ],
+      "average": 93.6
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TK",
+      "top_6_averages": [
+        98.8,
+        97.83,
+        96.0,
+        97.8,
+        97.67,
+        97.33,
+        96.8,
+        96.0,
+        95.83,
+        98.0,
+        92.4,
+        98.0,
+        95.33,
+        94.17,
+        96.0
+      ],
+      "average": 96.5307
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TLA",
+      "top_6_averages": [
+        94.0,
+        91.2
+      ],
+      "average": 92.6
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TLG",
+      "top_6_averages": [
+        96.0,
+        92.0,
+        96.44,
+        95.0,
+        93.8,
+        93.67,
+        92.0,
+        91.83,
+        91.0,
+        90.5,
+        89.83,
+        92.0,
+        90.25,
+        94.0,
+        95.3
+      ],
+      "average": 92.908
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TM",
+      "top_6_averages": [
+        98.0,
+        96.0,
+        95.0,
+        94.83
+      ],
+      "average": 95.9575
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TPG",
+      "top_6_averages": [
+        98.83,
+        97.67,
+        95.6,
+        95.5,
+        93.75,
+        93.5,
+        93.0,
+        91.7,
+        89.17,
+        87.16
+      ],
+      "average": 93.588
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TPK",
+      "top_6_averages": [
+        96.8,
+        91.8,
+        86.0,
+        84.0
+      ],
+      "average": 89.65
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TTM",
+      "top_6_averages": [
+        93.0,
+        92.83,
+        92.2
+      ],
+      "average": 92.6767
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TV",
+      "top_6_averages": [
+        97.0,
+        93.6,
+        92.8
+      ],
+      "average": 94.4667
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TXD",
+      "top_6_averages": [
+        87.0
+      ],
+      "average": 87.0
+    },
+    {
+      "university": "UofT - SG",
+      "program_code": "TXQ",
+      "top_6_averages": [
+        96.0,
+        95.0
+      ],
+      "average": 95.5
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "",
+      "top_6_averages": [
+        85.5
+      ],
+      "average": 85.5
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WA",
+      "top_6_averages": [
+        97.0,
+        94.33,
+        93.0,
+        83.0,
+        90.5,
+        91.0,
+        91.0
+      ],
+      "average": 91.4043
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WAB",
+      "top_6_averages": [
+        93.0,
+        89.0,
+        88.5,
+        94.0
+      ],
+      "average": 91.125
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WBA",
+      "top_6_averages": [
+        96.33,
+        94.0,
+        98.0,
+        97.0,
+        96.33,
+        93.0,
+        91.33
+      ],
+      "average": 95.1414
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WBC",
+      "top_6_averages": [
+        98.67,
+        96.33,
+        97.83,
+        96.67,
+        96.0
+      ],
+      "average": 97.1
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WBM",
+      "top_6_averages": [
+        98.17,
+        98.0,
+        96.5,
+        95.33
+      ],
+      "average": 97.0
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WC",
+      "top_6_averages": [
+        97.83,
+        97.67,
+        93.33,
+        92.33,
+        92.3
+      ],
+      "average": 94.692
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WCF",
+      "top_6_averages": [
+        98.33,
+        96.0,
+        98.0
+      ],
+      "average": 97.4433
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WCS",
+      "top_6_averages": [
+        100.0,
+        98.16,
+        98.6,
+        98.0,
+        98.0,
+        99.5,
+        99.17,
+        98.83,
+        98.8,
+        98.33,
+        98.33,
+        97.5,
+        97.33,
+        97.33,
+        96.83,
+        96.8,
+        96.67,
+        96.33,
+        96.33,
+        95.17,
+        95.16,
+        98.5,
+        96.33
+      ],
+      "average": 97.6522
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WD",
+      "top_6_averages": [
+        99.3,
+        98.67,
+        96.33,
+        97.5,
+        96.67
+      ],
+      "average": 97.694
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WE",
+      "top_6_averages": [
+        98.0,
+        95.83,
+        95.17,
+        92.7,
+        95.8,
+        93.6
+      ],
+      "average": 95.1833
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WEA",
+      "top_6_averages": [
+        98.17,
+        97.0,
+        92.0
+      ],
+      "average": 95.7233
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WEB",
+      "top_6_averages": [
+        81.0
+      ],
+      "average": 81.0
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WEE",
+      "top_6_averages": [
+        92.0
+      ],
+      "average": 92.0
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WEM",
+      "top_6_averages": [
+        97.0,
+        93.83,
+        93.83,
+        95.0,
+        94.6,
+        91.0
+      ],
+      "average": 94.21
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WER",
+      "top_6_averages": [
+        81.0
+      ],
+      "average": 81.0
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WEV",
+      "top_6_averages": [
+        92.0,
+        90.0,
+        91.67,
+        90.0
+      ],
+      "average": 90.9175
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WF",
+      "top_6_averages": [
+        97.5,
+        96.5,
+        93.83,
+        93.0,
+        94.5,
+        90.33,
+        94.5,
+        91.8,
+        91.8,
+        89.5
+      ],
+      "average": 93.326
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WGB",
+      "top_6_averages": [
+        95.0,
+        93.83,
+        97.0,
+        96.0,
+        85.83
+      ],
+      "average": 93.532
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WK",
+      "top_6_averages": [
+        85.17,
+        91.5,
+        88.5
+      ],
+      "average": 88.39
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WLS",
+      "top_6_averages": [
+        96.4,
+        86.0,
+        97.0,
+        95.25,
+        95.0,
+        90.25,
+        89.0,
+        89.0,
+        96.0,
+        95.0,
+        92.0,
+        91.0,
+        95.0,
+        95.0,
+        90.97,
+        92.0,
+        96.0,
+        87.5,
+        86.56,
+        88.5,
+        80.0,
+        88.16,
+        92.33
+      ],
+      "average": 91.4748
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WM",
+      "top_6_averages": [
+        98.0,
+        96.33,
+        96.33,
+        95.6,
+        93.83,
+        99.5,
+        97.67,
+        97.5,
+        96.83,
+        96.82,
+        96.33,
+        94.3,
+        93.67,
+        93.4,
+        93.0,
+        92.0,
+        91.67,
+        91.33,
+        93.0,
+        91.2
+      ],
+      "average": 94.9155
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WMB",
+      "top_6_averages": [
+        96.33
+      ],
+      "average": 96.33
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WMF",
+      "top_6_averages": [
+        95.6,
+        94.0,
+        92.0,
+        94.0,
+        95.17,
+        94.5
+      ],
+      "average": 94.2117
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WMT",
+      "top_6_averages": [
+        96.0,
+        97.83,
+        97.6,
+        97.5,
+        97.33,
+        97.17,
+        96.2,
+        95.5,
+        95.0,
+        93.16,
+        94.0,
+        96.83,
+        95.17,
+        96.83,
+        97.66
+      ],
+      "average": 96.252
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WN",
+      "top_6_averages": [
+        95.0,
+        93.83,
+        95.17
+      ],
+      "average": 94.6667
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WNT",
+      "top_6_averages": [
+        92.0,
+        94.0,
+        94.0,
+        94.4,
+        93.0,
+        88.0,
+        95.17
+      ],
+      "average": 92.9386
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WP",
+      "top_6_averages": [
+        97.8,
+        95.0,
+        94.33,
+        93.0,
+        91.0,
+        96.0,
+        91.0,
+        91.0,
+        85.83
+      ],
+      "average": 92.7733
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WPS",
+      "top_6_averages": [
+        98.8,
+        94.0,
+        94.0,
+        93.0,
+        95.0,
+        93.75,
+        93.2,
+        89.17,
+        96.0,
+        92.5,
+        96.0,
+        94.0,
+        92.0,
+        94.0,
+        90.0,
+        86.0
+      ],
+      "average": 93.2138
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WR",
+      "top_6_averages": [
+        94.0
+      ],
+      "average": 94.0
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WS",
+      "top_6_averages": [
+        96.0,
+        93.33,
+        93.33
+      ],
+      "average": 94.22
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WSB",
+      "top_6_averages": [
+        95.0,
+        93.83,
+        87.6,
+        84.5,
+        84.0
+      ],
+      "average": 88.986
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WSF",
+      "top_6_averages": [
+        94.67,
+        90.16
+      ],
+      "average": 92.415
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WSO",
+      "top_6_averages": [
+        99.0,
+        98.17,
+        98.0,
+        97.5,
+        97.5,
+        97.0,
+        97.0,
+        96.0,
+        95.67,
+        95.5,
+        98.5,
+        98.5,
+        98.0,
+        97.0,
+        96.5
+      ],
+      "average": 97.3227
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WSV",
+      "top_6_averages": [
+        92.0,
+        87.83
+      ],
+      "average": 89.915
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WWF",
+      "top_6_averages": [
+        95.83,
+        95.2,
+        98.3,
+        97.5,
+        96.17,
+        96.0
+      ],
+      "average": 96.5
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WWG",
+      "top_6_averages": [
+        90.0
+      ],
+      "average": 90.0
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WWH",
+      "top_6_averages": [
+        96.17,
+        93.5,
+        97.0
+      ],
+      "average": 95.5567
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WWJ",
+      "top_6_averages": [
+        98.17,
+        98.0,
+        98.0,
+        98.0,
+        97.5,
+        95.5,
+        95.0,
+        93.2,
+        97.33,
+        97.0,
+        95.66,
+        98.5
+      ],
+      "average": 96.8217
+    },
+    {
+      "university": "Waterloo",
+      "program_code": "WXY",
+      "top_6_averages": [
+        96.25,
+        92.5,
+        99.2,
+        94.67,
+        94.5,
+        94.16,
+        93.83,
+        93.67,
+        92.0,
+        93.5,
+        89.6,
+        86.5
+      ],
+      "average": 93.365
+    },
+    {
+      "university": "Western",
+      "program_code": "AEO",
+      "top_6_averages": [
+        94.83,
+        94.16,
+        95.67,
+        95.0,
+        94.5
+      ],
+      "average": 94.832
+    },
+    {
+      "university": "Western",
+      "program_code": "EA",
+      "top_6_averages": [
+        96.0,
+        89.0
+      ],
+      "average": 92.5
+    },
+    {
+      "university": "Western",
+      "program_code": "ECS",
+      "top_6_averages": [
+        94.3,
+        99.0,
+        98.83,
+        97.0,
+        97.0,
+        96.8,
+        96.5,
+        96.0,
+        95.0,
+        98.3,
+        97.0,
+        94.8,
+        93.83,
+        93.66,
+        92.5,
+        98.0,
+        92.5,
+        89.5,
+        96.17,
+        92.0,
+        90.83,
+        89.5
+      ],
+      "average": 94.9555
+    },
+    {
+      "university": "Western",
+      "program_code": "ED",
+      "top_6_averages": [
+        97.0,
+        94.0,
+        93.5,
+        96.0,
+        97.0,
+        97.0,
+        96.0,
+        96.0,
+        94.67,
+        94.0,
+        98.0,
+        93.8,
+        92.67,
+        98.33,
+        96.8,
+        96.0,
+        93.83,
+        99.2,
+        96.0,
+        95.0,
+        95.67
+      ],
+      "average": 95.7367
+    },
+    {
+      "university": "Western",
+      "program_code": "EDN",
+      "top_6_averages": [
+        90.67
+      ],
+      "average": 90.67
+    },
+    {
+      "university": "Western",
+      "program_code": "EE",
+      "top_6_averages": [
+        96.2,
+        95.0,
+        94.0,
+        97.67,
+        97.67,
+        97.0,
+        94.17,
+        98.0,
+        93.83,
+        92.3,
+        92.17,
+        91.5,
+        89.6,
+        88.0,
+        92.8,
+        90.5,
+        96.0,
+        94.0,
+        91.67,
+        91.5,
+        91.5,
+        95.0
+      ],
+      "average": 93.64
+    },
+    {
+      "university": "Western",
+      "program_code": "EE+AEO",
+      "top_6_averages": [
+        94.6
+      ],
+      "average": 94.6
+    },
+    {
+      "university": "Western",
+      "program_code": "EI",
+      "top_6_averages": [
+        88.25
+      ],
+      "average": 88.25
+    },
+    {
+      "university": "Western",
+      "program_code": "EKC",
+      "top_6_averages": [
+        97.0
+      ],
+      "average": 97.0
+    },
+    {
+      "university": "Western",
+      "program_code": "EM",
+      "top_6_averages": [
+        93.0
+      ],
+      "average": 93.0
+    },
+    {
+      "university": "Western",
+      "program_code": "ENF",
+      "top_6_averages": [
+        91.68
+      ],
+      "average": 91.68
+    },
+    {
+      "university": "Western",
+      "program_code": "ENW",
+      "top_6_averages": [
+        96.0,
+        94.8,
+        93.2,
+        93.16,
+        94.5,
+        93.16
+      ],
+      "average": 94.1367
+    },
+    {
+      "university": "Western",
+      "program_code": "EO",
+      "top_6_averages": [
+        94.67,
+        96.5,
+        91.83,
+        94.61,
+        94.5,
+        91.4,
+        92.5,
+        91.0
+      ],
+      "average": 93.3762
+    },
+    {
+      "university": "Western",
+      "program_code": "EP",
+      "top_6_averages": [
+        92.2,
+        92.5,
+        92.16,
+        89.67
+      ],
+      "average": 91.6325
+    },
+    {
+      "university": "Western",
+      "program_code": "ES",
+      "top_6_averages": [
+        98.8,
+        93.3,
+        92.0,
+        90.0,
+        94.6,
+        92.0,
+        91.83,
+        90.67
+      ],
+      "average": 92.9
+    },
+    {
+      "university": "Western",
+      "program_code": "ESM",
+      "top_6_averages": [
+        95.0,
+        96.0,
+        98.83,
+        97.17,
+        97.0,
+        96.83,
+        96.67,
+        96.5,
+        96.3,
+        96.0,
+        95.25,
+        94.0,
+        93.0,
+        97.0,
+        96.8,
+        99.0,
+        98.83,
+        97.0,
+        95.0,
+        95.0,
+        94.0,
+        93.5,
+        97.16,
+        92.67,
+        98.0,
+        96.67,
+        95.5,
+        94.0,
+        94.0,
+        93.5,
+        99.0,
+        94.0,
+        94.0,
+        91.6,
+        90.5,
+        89.83,
+        87.5,
+        92.5,
+        91.0,
+        91.0,
+        94.0
+      ],
+      "average": 94.9051
+    },
+    {
+      "university": "Western",
+      "program_code": "EW",
+      "top_6_averages": [
+        96.0,
+        99.67,
+        95.33,
+        95.25,
+        94.0,
+        96.67,
+        96.5,
+        94.3,
+        94.0,
+        94.0,
+        93.67,
+        93.0,
+        94.0,
+        92.67,
+        92.16,
+        92.0
+      ],
+      "average": 94.5763
+    },
+    {
+      "university": "Western",
+      "program_code": "Efs",
+      "top_6_averages": [
+        90.2
+      ],
+      "average": 90.2
+    },
+    {
+      "university": "Western - Huron",
+      "program_code": "EHD",
+      "top_6_averages": [
+        90.0,
+        93.0
+      ],
+      "average": 91.5
+    },
+    {
+      "university": "Western - Huron",
+      "program_code": "EHO",
+      "top_6_averages": [
+        90.5,
+        93.5
+      ],
+      "average": 92.0
+    },
+    {
+      "university": "Windsor",
+      "program_code": "NN",
+      "top_6_averages": [
+        96.0,
+        89.5,
+        91.0
+      ],
+      "average": 92.1667
+    },
+    {
+      "university": "Windsor",
+      "program_code": "Nef",
+      "top_6_averages": [
+        95.0
+      ],
+      "average": 95.0
+    },
+    {
+      "university": "York",
+      "program_code": "YBA",
+      "top_6_averages": [
+        96.8,
+        96.5,
+        95.0,
+        93.0,
+        93.0,
+        98.1,
+        96.0,
+        95.67,
+        95.0,
+        91.4,
+        91.0,
+        96.16,
+        92.0,
+        91.67,
+        91.67,
+        91.0,
+        90.67,
+        90.3,
+        89.66,
+        92.8
+      ],
+      "average": 93.37
+    },
+    {
+      "university": "York",
+      "program_code": "YDE",
+      "top_6_averages": [
+        97.3
+      ],
+      "average": 97.3
+    },
+    {
+      "university": "York",
+      "program_code": "YEW",
+      "top_6_averages": [
+        90.0
+      ],
+      "average": 90.0
+    },
+    {
+      "university": "York",
+      "program_code": "YFB",
+      "top_6_averages": [
+        91.0,
+        90.83,
+        88.0
+      ],
+      "average": 89.9433
+    },
+    {
+      "university": "York",
+      "program_code": "YFK",
+      "top_6_averages": [
+        92.5
+      ],
+      "average": 92.5
+    },
+    {
+      "university": "York",
+      "program_code": "YFL",
+      "top_6_averages": [
+        89.0
+      ],
+      "average": 89.0
+    },
+    {
+      "university": "York",
+      "program_code": "YFM",
+      "top_6_averages": [
+        82.0
+      ],
+      "average": 82.0
+    },
+    {
+      "university": "York",
+      "program_code": "YFT",
+      "top_6_averages": [
+        83.0
+      ],
+      "average": 83.0
+    },
+    {
+      "university": "York",
+      "program_code": "YFZ",
+      "top_6_averages": [
+        83.0
+      ],
+      "average": 83.0
+    },
+    {
+      "university": "York",
+      "program_code": "YHA",
+      "top_6_averages": [
+        93.0,
+        91.0,
+        87.0
+      ],
+      "average": 90.3333
+    },
+    {
+      "university": "York",
+      "program_code": "YHB",
+      "top_6_averages": [
+        95.0,
+        90.16
+      ],
+      "average": 92.58
+    },
+    {
+      "university": "York",
+      "program_code": "YHC",
+      "top_6_averages": [
+        89.0,
+        76.3
+      ],
+      "average": 82.65
+    },
+    {
+      "university": "York",
+      "program_code": "YHD",
+      "top_6_averages": [
+        97.7,
+        93.0,
+        86.6,
+        86.0,
+        89.5
+      ],
+      "average": 90.56
+    },
+    {
+      "university": "York",
+      "program_code": "YHE",
+      "top_6_averages": [
+        92.0,
+        92.0,
+        91.0
+      ],
+      "average": 91.6667
+    },
+    {
+      "university": "York",
+      "program_code": "YHU",
+      "top_6_averages": [
+        91.0,
+        84.0
+      ],
+      "average": 87.5
+    },
+    {
+      "university": "York",
+      "program_code": "YHV",
+      "top_6_averages": [
+        87.5
+      ],
+      "average": 87.5
+    },
+    {
+      "university": "York",
+      "program_code": "YHW",
+      "top_6_averages": [
+        90.0,
+        94.0,
+        90.0,
+        89.25,
+        90.89,
+        91.17,
+        91.0
+      ],
+      "average": 90.9014
+    },
+    {
+      "university": "York",
+      "program_code": "YMF",
+      "top_6_averages": [
+        92.2,
+        92.2
+      ],
+      "average": 92.2
+    },
+    {
+      "university": "York",
+      "program_code": "YMG",
+      "top_6_averages": [
+        92.2,
+        86.0,
+        83.0
+      ],
+      "average": 87.0667
+    },
+    {
+      "university": "York",
+      "program_code": "YMS",
+      "top_6_averages": [
+        80.0
+      ],
+      "average": 80.0
+    },
+    {
+      "university": "York",
+      "program_code": "YPK",
+      "top_6_averages": [
+        88.0
+      ],
+      "average": 88.0
+    },
+    {
+      "university": "York",
+      "program_code": "YSB",
+      "top_6_averages": [
+        89.0,
+        84.0
+      ],
+      "average": 86.5
+    },
+    {
+      "university": "York",
+      "program_code": "YSE",
+      "top_6_averages": [
+        93.66,
+        93.78
+      ],
+      "average": 93.72
+    },
+    {
+      "university": "York",
+      "program_code": "YSF",
+      "top_6_averages": [
+        90.0
+      ],
+      "average": 90.0
+    },
+    {
+      "university": "York",
+      "program_code": "YSG",
+      "top_6_averages": [
+        91.33,
+        92.0,
+        92.5,
+        93.83,
+        94.33
+      ],
+      "average": 92.798
+    },
+    {
+      "university": "York",
+      "program_code": "YSW",
+      "top_6_averages": [
+        93.0,
+        92.0,
+        86.0,
+        88.16,
+        88.25,
+        84.0
+      ],
+      "average": 88.5683
+    },
+    {
+      "university": "York",
+      "program_code": "YT",
+      "top_6_averages": [
+        92.0,
+        94.6,
+        90.33,
+        95.0,
+        92.0,
+        96.0,
+        92.0,
+        91.0,
+        86.56,
+        92.16
+      ],
+      "average": 92.165
+    },
+    {
+      "university": "York",
+      "program_code": "YUE",
+      "top_6_averages": [
+        83.0
+      ],
+      "average": 83.0
+    },
+    {
+      "university": "York",
+      "program_code": "YVA",
+      "top_6_averages": [
+        90.25,
+        94.0
+      ],
+      "average": 92.125
+    },
+    {
+      "university": "York",
+      "program_code": "YYH",
+      "top_6_averages": [
+        95.0
+      ],
+      "average": 95.0
+    },
+    {
+      "university": "York",
+      "program_code": "YYQ",
+      "top_6_averages": [
+        97.0
+      ],
+      "average": 97.0
+    },
+    {
+      "university": "York",
+      "program_code": "YYT",
+      "top_6_averages": [
+        77.0
+      ],
+      "average": 77.0
+    }
+  ]
+}
